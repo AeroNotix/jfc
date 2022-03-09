@@ -3,7 +3,7 @@ jfc
 
 Jesus Fucking Christ
 
-A simple thing to just retry a command
+A simple thing to just fucking retry a command
 
 ```shell
 # Try three times, wait three seconds
